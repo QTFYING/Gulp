@@ -8,7 +8,7 @@ Install dependencies and start,
 
 ```bash
 $ npm install
-$ gulp start:dev
+$ gulp
 ```
 
 ## Browserify plugins
